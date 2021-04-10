@@ -1,0 +1,10 @@
+name: Get new events
+on:
+  schedule:
+    - cron: '0 1 * * *'
+jobs:
+  Get-New-Events:
+    runs-on: ubuntu-latest
+    steps:
+      # Run
+      - run: echo "Its running and complete"
