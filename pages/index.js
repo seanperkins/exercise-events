@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
-import events from './constants/events'
+import events from '../constants/events'
 
 export default function Home() {
   return (
