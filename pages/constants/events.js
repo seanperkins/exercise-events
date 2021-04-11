@@ -1,4 +1,4 @@
-[
+export default [
   {
     name: 'Virtual Zumba Gold with Ruth (Around Town DC)',
     description: 'Visit AroundTownDC.org to learn more',
